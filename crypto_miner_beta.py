@@ -1,4 +1,4 @@
-print("created by HeckerAndDmitryX team project on github:https://github.com/HeckerAndDmitryX/CryptoMinerForOldPc")
+print("created by 'HeckerAndDmitryX team' project on github:https://github.com/HeckerAndDmitryX/CryptoMinerForOldPc")
 from tkinter import*
 import random
 def clicked():
