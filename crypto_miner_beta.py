@@ -1,4 +1,7 @@
 print("created by 'HeckerAndDmitryX team' project on github:https://github.com/HeckerAndDmitryX/CryptoMinerForOldPc")
+import turtle
+turtle. color('yellow')
+turtle. write('BitcoinMinerForOldPC')
 from tkinter import*
 import random
 def clicked():
